@@ -1,6 +1,6 @@
 1. 项目名称：禅定空间
 
-2. 小组的GitHub地址：https://github.com/meditation-space
+2. 小组的GitHub地址：https://github.com/meditation-space/docs
 
 3. 小组成员、分工及 GitHub主页：
 
